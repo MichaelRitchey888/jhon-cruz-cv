@@ -24,7 +24,7 @@ const Hero = () => {
             interfaces and 3D visuals.
           </p> */}
           <h4 className="mt-2 text-3xl">
-            Email: jhonstardustdev@gmail.com
+            Email: johnstardustdev@gmail.com
           </h4>
           <h4 className="mt-2 text-3xl">Phone: +1 6197986483</h4>
         </div>
